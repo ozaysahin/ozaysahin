@@ -40,7 +40,7 @@
 <div align="center">
   <h2>My Contributions </h2>
   <br>
-![snake gif](https://github.com/ozaysahin/ozaysahin/blob/output/github-snake-dark.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ozaysahin/ozaysahin/output/github-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
